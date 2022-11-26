@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ### **🛠** **Tech Stack**
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+# Last Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
