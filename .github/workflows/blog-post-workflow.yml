@@ -1,7 +1,10 @@
+# special_repository.yml
 name: Latest blog post workflow
+
 on:
-  schedule:
-    - cron: '* 2 * * *'
+  repository_dispatch:
+    # 这里的类型是可以自定义的，我将它起名为：special_repository
+    types: [special_repository]
   workflow_dispatch:
 
 jobs:
@@ -12,7 +15,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # 我的博客 RSS 链接
-          feed_list: "https://banshengua.top/feed/"
-          # 获取最新 10 篇文章
+          feed_list: "https://blog.csdn.net/qq_51604330/rss/list?spm=1001.2014.3001.5494"
           max_post_count: 6
