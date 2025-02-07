@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【捡垃圾】罗技G913TKL](/archives/wei-ming-ming-wen-zhang)
 - [【Docker】Ubuntu Docker安装](/archives/%E3%80%90Docker%E3%80%91Ubuntu%20Docker%E5%AE%89%E8%A3%85)
 - [【VSCode】SSH Remote 通过跳板机连开发机提示“bash行1 powershell未找到命令”](/archives/1712329233798)
 - [Hello Halo](/archives/hello-halo)
 - [下一站——Halo!](/archives/%E4%B8%8B%E4%B8%80%E7%AB%99%E2%80%94%E2%80%94Halo%21)
-- [【Python】对比嵌套JSON的不同](/archives/%E3%80%90Python%E3%80%91%E5%AF%B9%E6%AF%94%E5%B5%8C%E5%A5%97JSON%E7%9A%84%E4%B8%8D%E5%90%8C)
 <!-- BLOG-POST-LIST:END -->
 
 
