@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【开箱】百亿补贴小米平板7](/archives/wei-ming-ming-wen-zhang)
-- [【捡垃圾】罗技G913TKL](/archives/wei-ming-ming-wen-zhang)
+- [【MC】简单的MC联机服务器搭建，并通过权限控制插件实现非OP权限TP](/archives/mc-jian-dan-de-mclian-ji-fu-wu-qi-da-jian)
+- [【开箱】百亿补贴小米平板7](/archives/kai-xiang-bai-yi-bu-tie-xiao-mi-ping-ban-7)
+- [【捡垃圾】罗技G913TKL](/archives/jian-la-ji-luo-ji-g913tkl)
 - [【Docker】Ubuntu Docker安装](/archives/%E3%80%90Docker%E3%80%91Ubuntu%20Docker%E5%AE%89%E8%A3%85)
 - [【VSCode】SSH Remote 通过跳板机连开发机提示“bash行1 powershell未找到命令”](/archives/1712329233798)
-- [Hello Halo](/archives/hello-halo)
 <!-- BLOG-POST-LIST:END -->
 
 
