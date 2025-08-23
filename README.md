@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  
 
-### **🛳** **Your ticket ID for this visit**
-
-<img src="https://profile-counter.glitch.me/doraemon-hub-art/count.svg" />
 
 ### ⭐️ &nbsp;Github Star
 
