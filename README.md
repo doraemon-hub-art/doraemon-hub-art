@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test1](/archives/test1)
-- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](/archives/za-xiang-pi-liang-xia-zai-bi-li-bi-li-shi-pin-de-qi-ji-yin-qiao)
-- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](/archives/gstreamer-bo-fang-qi-sheng-qia-she-bei-bang-ding-wen-ti-yin-pin-liu-bo-fang-wen-ti-fen-xi)
-- [【Neovim】1. 上手即用](/archives/neovim-1.-shang-shou-ji-yong)
-- [【装机】9700X+5070装机](/archives/9700X-5070-zhuang-ji)
+- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/za-xiang-pi-liang-xia-zai-bi-li-bi-li-shi-pin-de-qi-ji-yin-qiao)
+- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](https://banshengua.top/archives/gstreamer-bo-fang-qi-sheng-qia-she-bei-bang-ding-wen-ti-yin-pin-liu-bo-fang-wen-ti-fen-xi)
+- [【Neovim】1. 上手即用](https://banshengua.top/archives/neovim-1.-shang-shou-ji-yong)
+- [【装机】9700X+5070装机](https://banshengua.top/archives/9700X-5070-zhuang-ji)
+- [【MC】简单的MC联机服务器搭建，并通过权限控制插件实现非OP权限TP](https://banshengua.top/archives/mc-jian-dan-de-mclian-ji-fu-wu-qi-da-jian)
 <!-- BLOG-POST-LIST:END -->
 
 
