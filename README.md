@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【重要通知】笔记分站建立！](https://banshengua.top/archives/chong-yao-tong-zhi-bi-ji-fen-zhan-jian-li)
-- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/za-xiang-pi-liang-xia-zai-bi-li-bi-li-shi-pin-de-qi-ji-yin-qiao)
-- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](https://banshengua.top/archives/gstreamer-bo-fang-qi-sheng-qia-she-bei-bang-ding-wen-ti-yin-pin-liu-bo-fang-wen-ti-fen-xi)
-- [【Neovim】1. 上手即用](https://banshengua.top/archives/wei-ming-ming-wen-zhang)
-- [【装机】9700X+5070装机](https://banshengua.top/archives/9700X-5070-zhuang-ji)
+- [【重要通知】笔记分站建立！](https://banshengua.top/archives/a47d8a85-acb8-4c2b-9f13-a33b697d487e)
+- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/4a263dc3-8345-4bdd-9201-ee5b5645539d)
+- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](https://banshengua.top/archives/335b638e-1b2f-4204-8ac2-4fd1976d916c)
+- [【Neovim】1. 上手即用](https://banshengua.top/archives/fac0daec-8ecb-4808-bd6f-f348b1beb87e)
+- [【装机】9700X+5070装机](https://banshengua.top/archives/f00909ab-30a6-42ae-9386-c0aa9968e444)
 <!-- BLOG-POST-LIST:END -->
 
 
