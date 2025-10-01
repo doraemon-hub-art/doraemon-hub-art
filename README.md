@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【重要通知】笔记分站建立！](https://banshengua.top/archives/a47d8a85-acb8-4c2b-9f13-a33b697d487e)
-- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/4a263dc3-8345-4bdd-9201-ee5b5645539d)
-- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](https://banshengua.top/archives/335b638e-1b2f-4204-8ac2-4fd1976d916c)
-- [【Neovim】1. 上手即用](https://banshengua.top/archives/fac0daec-8ecb-4808-bd6f-f348b1beb87e)
-- [【装机】9700X+5070装机](https://banshengua.top/archives/f00909ab-30a6-42ae-9386-c0aa9968e444)
+- [【重要通知】笔记分站成立！](/archives/9Cff4jdH)
+- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](/archives/ly9wmxWL)
+- [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](/archives/gstreamer-bo-fang-qi-sheng-qia-she-bei-bang-ding-wen-ti-yin-pin-liu-bo-fang-wen-ti-fen-xi)
+- [【Neovim】1. 上手即用](/archives/neovim-1.-shang-shou-ji-yong)
+- [【装机】9700X+5070装机](/archives/9700X-5070-zhuang-ji)
 <!-- BLOG-POST-LIST:END -->
 
 
