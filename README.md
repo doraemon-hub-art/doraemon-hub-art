@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [【杂项】批量下载哔哩哔哩视频的奇技淫巧](/archives/ly9wmxWL)
 - [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](/archives/gstreamer-bo-fang-qi-sheng-qia-she-bei-bang-ding-wen-ti-yin-pin-liu-bo-fang-wen-ti-fen-xi)
 - [【Neovim】1. 上手即用](/archives/Raeaz1J4)
-- [【装机】9700X+5070装机](/archives/9700X-5070-zhuang-ji)
+- [【装机】9700X+5070装机](/archives/vbmiqHnj)
 <!-- BLOG-POST-LIST:END -->
 
 
