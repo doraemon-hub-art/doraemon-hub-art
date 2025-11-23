@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【AWS】Alexa多地区部署Cognito认证问题](https://banshengua.top/archives/qjlFIwhL)
 - [【随笔】十月——新的开始！](https://banshengua.top/archives/SQnD9PIq)
 - [【重要通知】笔记分站成立！](https://banshengua.top/archives/9Cff4jdH)
 - [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/ly9wmxWL)
 - [【ALSA】播放器声卡设备打开失败问题，音频流播放问题分析](https://banshengua.top/archives/V2RVfYVG)
-- [【Neovim】1. 上手即用](https://banshengua.top/archives/Raeaz1J4)
 <!-- BLOG-POST-LIST:END -->
 
 
