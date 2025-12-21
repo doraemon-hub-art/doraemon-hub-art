@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【捡垃圾】KeychronQ11，我的第一把分体式键盘](https://banshengua.top/archives/Zx47kvDN)
 - [【捡垃圾】8500+Z370P DIY NAS](https://banshengua.top/archives/ZX00rQX6)
 - [【AWS】Alexa多地区部署Cognito认证问题](https://banshengua.top/archives/qjlFIwhL)
 - [【随笔】十月——新的开始！](https://banshengua.top/archives/SQnD9PIq)
 - [【重要通知】笔记分站成立！](https://banshengua.top/archives/9Cff4jdH)
-- [【杂项】批量下载哔哩哔哩视频的奇技淫巧](https://banshengua.top/archives/ly9wmxWL)
 <!-- BLOG-POST-LIST:END -->
 
 
