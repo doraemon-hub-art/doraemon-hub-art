@@ -23,10 +23,11 @@ Here are some ideas to get you started:
   -->
 
 
-
+<!--
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doraemon-hub-art&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doraemon-hub-art&count_private=true&show_icons=true"/>  
+-->
 
 ### **🛠** **Tech Stack**
 
