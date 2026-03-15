@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【重要通知】宣传（实验）分站正式成立！](https://banshengua.top/archives/23lpsbeM)
 - [【2025年终总结】我没有翻过那座山，但也并非空手而归。](https://banshengua.top/archives/EJREjwyk)
 - [【捡垃圾】5700x+6750GRE ITX装机](https://banshengua.top/archives/buQMNYeE)
 - [【捡垃圾】KeychronQ11，我的第一把分体式键盘](https://banshengua.top/archives/Zx47kvDN)
 - [【捡垃圾】8500+Z370P DIY NAS](https://banshengua.top/archives/ZX00rQX6)
-- [【AWS】Alexa多地区部署Cognito认证问题](https://banshengua.top/archives/qjlFIwhL)
 <!-- BLOG-POST-LIST:END -->
 
 
