@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 # Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【捡垃圾】H310T2 R2.0 迷你主机](https://banshengua.top/archives/V4YpQMRs)
 - [【捡垃圾】雷蛇黑寡妇v4 mini](https://banshengua.top/archives/In2brxAk)
 - [【随笔】秋天来了](https://banshengua.top/archives/rrUgxcgh)
 - [【重要通知】宣传（实验）分站正式成立！](https://banshengua.top/archives/23lpsbeM)
 - [【2025年终总结】我没有翻过那座山，但也并非空手而归。](https://banshengua.top/archives/EJREjwyk)
-- [【捡垃圾】5700x+6750GRE ITX装机](https://banshengua.top/archives/buQMNYeE)
 <!-- BLOG-POST-LIST:END -->
 
 
